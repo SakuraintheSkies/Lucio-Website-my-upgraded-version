@@ -166,7 +166,7 @@ Through this project, I improved my skills in:
 ## 🌐 Website Landing Page
 
 <p align="center">
-  <img src="desktop-1.png" width="900"/>
+  <img src="Desktop - 1.png" width="900"/>
 </p>
 
 ---
